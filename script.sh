@@ -1,4 +1,4 @@
-projeto="/opt/dev/workspace/calculadora"
+projeto="/opt/dev/projects/projetosEvidencia/Calculadora"
 nginx="/var/www/calculadora"
 
 if [ -d "$projeto" ] && [ -d "$nginx" ]; then
